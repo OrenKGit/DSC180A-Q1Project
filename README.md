@@ -1,5 +1,28 @@
 # DSC180A-Q1Project
 
+## Project Overview
+
+Wire routing congestion represents a significant challenge in contemporary chip design,
+where the dense placement of interconnecting wires can lead to numerous complications.
+These complications not only affect the overall performance of the chip but also contribute to
+increased manufacturing costs. For instance, congestion can necessitate longer wire routes,
+resulting in larger chip sizes and potentially introducing timing errors that compromise
+functionality. As the demand for smaller chip sizes continues to grow and the cost of chip
+development escalates, addressing congestion issues becomes increasingly critical.
+Optimizing both component placement and routing within the chip design process offers a
+potential pathway to mitigate congestion. Advances in machine learning present promising
+opportunities in this regard. Specifically, machine learning tools can be leveraged to predict
+congestion-prone areas or to suggest optimal placements and routing strategies to alleviate
+congestion.
+
+This project seeks to build a foundational understanding of the principles of chip design
+and the application of graph machine learning techniques to this domain. The objective is
+to explore how graph machine learning approaches can be utilized to model the domain
+of chip design, aiming to predict and resolve congestion issues effectively. This will be
+accomplished in two main steps. First, by completing exploratory data analysis on graph
+data to build a base understanding of graph ml fundamentals. Next, by re-implementing
+the paper DE-HNN (Luo et al., 2024).
+
 ## Accessing and Storing Data
 
 Station Data has been provided in the data folder.

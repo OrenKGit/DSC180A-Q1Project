@@ -12,6 +12,8 @@ Store the data locally on the same level within the folder as the notebook.
 
 A requirements.txt file is provided listing the necessary packages.
 
-## Reproducing Results
+## How to Run Locally / Reproduce Results
 
-Download and store the data as describe above. Run the Jupyter Notebook DSC180-A1.ipynb to reproduce results.
+After pulling all provided code download and store the data as describe above. 
+In a new virtual environment run pip install -r /path/to/requirements.txt.
+Run the Jupyter Notebook DSC180-A1.ipynb to reproduce results.

@@ -24,8 +24,8 @@ data to build a base understanding of graph ml fundamentals. Next, by re-impleme
 the paper DE-HNN (Luo et al., 2024).
 
 ## File Structure
-* data - data for running
-* images - images from EDA
+* data - stores all datasets
+* images - stores images from EDA
 * src
   * ```DSC180-A1.ipynb``` - EDA for learning graph representation and basic congestion analysis.
   * ```EDA.ipynb``` - EDA for chips data
